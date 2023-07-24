@@ -9,6 +9,7 @@ We will not be available during the lectures for help concerning local setup._
 
 If you want to run the code locally, you should install the following libraries:
 * numpy
+* scipy
 * matplotlib
 * tensorflow
 * keras
